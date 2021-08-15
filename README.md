@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ndabahriye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ndabahriye/ndabahriye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jean Aime NDABAHARIYE
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Masters of IoT in University of Rwanda
+- 💞️ I’m looking to collaborate on IoT Projects
+- 📫 Contact: +250 785 384 384
+- Email: aimegenie@gmail.com
+- Website: www.eschool.rw
